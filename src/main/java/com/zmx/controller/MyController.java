@@ -29,9 +29,7 @@ public class MyController implements Controller {
         modelAndView.addObject("sexes", "女");
         modelAndView.setViewName("index");
         
-        
-        
-
+s
         return modelAndView;
     }
 
